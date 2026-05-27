@@ -17,7 +17,8 @@ Sử dụng API công khai: `https://jsonplaceholder.typicode.com`
 - **URL:** `GET /posts`
 - **Kết quả:** Status 200 OK
 
-![GET /posts](images/get-posts.png)
+<img width="1587" height="988" alt="Screenshot 2026-05-27 162258" src="https://github.com/user-attachments/assets/5fdb4a2e-5058-4e08-b68b-05fa52217679" />
+
 
 ### 4.2. GET - Lấy bài viết theo ID
 - **URL:** `GET /posts/1`
