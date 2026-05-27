@@ -4,8 +4,8 @@
 
 
 ## 1. Giới thiệu
-- **Họ tên:**: Trần Ngọc An
-- **MSSV:**: 23010283
+- **Họ tên:** Trần Ngọc An
+- **MSSV:** 23010283
 
 ## 2. Mục tiêu
 Thực hành kiểm thử các API RESTful sử dụng công cụ Postman,
