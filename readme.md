@@ -53,4 +53,30 @@ Sử dụng API công khai: `https://jsonplaceholder.typicode.com`
 
 <img width="1577" height="993" alt="image" src="https://github.com/user-attachments/assets/9ea1b829-0047-47ca-b894-9ba51d7ab559" />
 
+## 5. Nhận xét
+
+### Ưu điểm của Postman
+- Postman giúp kiểm thử API dễ dàng, trực quan, không cần viết code
+- Giao diện thân thiện, dễ sử dụng cho người mới bắt đầu
+- Hỗ trợ đầy đủ các method HTTP: GET, POST, PUT, DELETE,...
+- Hiển thị response rõ ràng: status code, thời gian phản hồi, kích thước dữ liệu
+- Có thể lưu lại các request vào Collection để tái sử dụng
+- Hỗ trợ kiểm tra tự động bằng cách viết Test Script (JavaScript)
+
+### Kết quả đạt được
+- Thực hiện thành công 5 request: GET (danh sách), GET (theo ID), POST, PUT, DELETE
+- Hiểu được cách hoạt động của REST API và giao thức HTTP
+- Nắm được cách truyền dữ liệu qua Body (JSON) khi dùng POST và PUT
+- Biết cách đọc và phân tích response trả về từ server
+
+### Khó khăn gặp phải
+- Ban đầu chưa quen với việc cấu hình Body và Header cho request
+- Cần tìm hiểu thêm về các tính năng nâng cao như Authorization, Environment Variables
+- JSONPlaceholder là API giả lập nên dữ liệu không thực sự thay đổi trên server
+
+## 6. Tài liệu tham khảo
+
+- [Video hướng dẫn Postman](https://www.youtube.com/watch?v=MFxk5BZulVU)
+- [Postman Official Documentation](https://learning.postman.com/docs)
+- [JSONPlaceholder - Free Fake REST API](https://jsonplaceholder.typicode.com)
 
