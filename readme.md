@@ -1,5 +1,5 @@
 # Báo Cáo Kiểm Thử API với Postman
-
+<img width="1587" height="988" alt="Screenshot 2026-05-27 162258" src="https://github.com/user-attachments/assets/5fdb4a2e-5058-4e08-b68b-05fa52217679" />
 ## 1. Giới thiệu
 - **Họ tên:**: Trần Ngọc An
 - **MSSV:**: 23010283
@@ -16,8 +16,6 @@ Sử dụng API công khai: `https://jsonplaceholder.typicode.com`
 ### 4.1. GET - Lấy danh sách bài viết
 - **URL:** `GET /posts`
 - **Kết quả:** Status 200 OK
-
-<img width="1587" height="988" alt="Screenshot 2026-05-27 162258" src="https://github.com/user-attachments/assets/5fdb4a2e-5058-4e08-b68b-05fa52217679" />
 
 
 ### 4.2. GET - Lấy bài viết theo ID
