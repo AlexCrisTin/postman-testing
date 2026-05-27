@@ -45,8 +45,12 @@ Sử dụng API công khai: `https://jsonplaceholder.typicode.com`
 
 
 ### 4.4. PUT - Cập nhật bài viết
-...
+
+<img width="1585" height="998" alt="image" src="https://github.com/user-attachments/assets/9f78f818-d3cb-4e8b-87e0-46378e96e474" />
+
 
 ### 4.5. DELETE - Xóa bài viết
-...
+
+<img width="1577" height="993" alt="image" src="https://github.com/user-attachments/assets/9ea1b829-0047-47ca-b894-9ba51d7ab559" />
+
 
